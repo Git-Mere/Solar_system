@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="mesh">
+      <UniqueIdentifier>{87ffd2eb-3c4b-47ba-8673-4f712661de11}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="render">
+      <UniqueIdentifier>{46add4f4-a973-4aae-a93a-db3e9095b056}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="project">
+      <UniqueIdentifier>{62473424-3875-41cc-8259-29796bc341b4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Affine.cpp">
+      <Filter>render</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>render</Filter>
+    </ClCompile>
+    <ClCompile Include="CameraRender2D.cpp">
+      <Filter>render</Filter>
+    </ClCompile>
+    <ClCompile Include="Clip.cpp">
+      <Filter>render</Filter>
+    </ClCompile>
+    <ClCompile Include="HalfSpace.cpp">
+      <Filter>render</Filter>
+    </ClCompile>
+    <ClCompile Include="Projection.cpp">
+      <Filter>render</Filter>
+    </ClCompile>
+    <ClCompile Include="Render.cpp">
+      <Filter>render</Filter>
+    </ClCompile>
+    <ClCompile Include="SimpleRender.cpp">
+      <Filter>render</Filter>
+    </ClCompile>
+    <ClCompile Include="CubeMesh.cpp">
+      <Filter>mesh</Filter>
+    </ClCompile>
+    <ClCompile Include="SnubDodecMesh.cpp">
+      <Filter>mesh</Filter>
+    </ClCompile>
+    <ClCompile Include="My_demo.cpp">
+      <Filter>project</Filter>
+    </ClCompile>
+    <ClCompile Include="planet.cpp">
+      <Filter>project</Filter>
+    </ClCompile>
+    <ClCompile Include="star.cpp">
+      <Filter>project</Filter>
+    </ClCompile>
+    <ClCompile Include="FrustumMesh.cpp">
+      <Filter>mesh</Filter>
+    </ClCompile>
+    <ClCompile Include="Meshes.cpp">
+      <Filter>mesh</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Affine.h">
+      <Filter>render</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>render</Filter>
+    </ClInclude>
+    <ClInclude Include="CameraRender2D.h">
+      <Filter>render</Filter>
+    </ClInclude>
+    <ClInclude Include="Clip.h">
+      <Filter>render</Filter>
+    </ClInclude>
+    <ClInclude Include="HalfSpace.h">
+      <Filter>render</Filter>
+    </ClInclude>
+    <ClInclude Include="Mesh.h">
+      <Filter>render</Filter>
+    </ClInclude>
+    <ClInclude Include="Projection.h">
+      <Filter>render</Filter>
+    </ClInclude>
+    <ClInclude Include="Render.h">
+      <Filter>render</Filter>
+    </ClInclude>
+    <ClInclude Include="SimpleRender.h">
+      <Filter>render</Filter>
+    </ClInclude>
+    <ClInclude Include="SnubDodecMesh.h">
+      <Filter>mesh</Filter>
+    </ClInclude>
+    <ClInclude Include="CubeMesh.h">
+      <Filter>mesh</Filter>
+    </ClInclude>
+    <ClInclude Include="planet.h">
+      <Filter>project</Filter>
+    </ClInclude>
+    <ClInclude Include="star.h">
+      <Filter>project</Filter>
+    </ClInclude>
+    <ClInclude Include="FrustumMesh.h">
+      <Filter>mesh</Filter>
+    </ClInclude>
+    <ClInclude Include="Meshes.h">
+      <Filter>mesh</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
