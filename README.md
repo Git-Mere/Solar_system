@@ -7,12 +7,12 @@
 ---
 
 ## Simple control
-**Key W, S (You can move forth and back)** <br>
+**Key W, S and Mouse (You can move forth and back)** <br>
 
 ---
 
-## Play Video
-![video](https://github.com/user-attachments/assets/384e26fc-ff73-43c5-849e-94d0ab0b7868)
+## Snap Shots
+![gif](https://piskel-imgstore-b.appspot.com/img/4b3e3f5e-ec05-11ef-933a-b3fea4fe7937.gif)
 
 ---
 
