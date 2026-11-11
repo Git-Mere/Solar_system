@@ -4,6 +4,13 @@ A solar system rendered with a hand-rolled graphics engine built on top of OpenG
 
 ![C++](https://img.shields.io/badge/C%2B%2B-17-blue) ![GLSL](https://img.shields.io/badge/GLSL-shader-green)
 
+## Highlights
+
+- Awarded in Keimyung University's Micro Degree Competition (2nd place)
+- 4x4 homogeneous math library written from scratch: point and vector types, Rodrigues axis-angle rotation, affine inverse
+- Perspective camera that builds its own orthonormal basis and yaws, pitches, and rolls about its own axes
+- Renders a sun, 8 planets, 50 stars, and 100-vertex orbit paths
+
 ## Features
 
 - Planet and star rendering driven by a custom lightweight graphics engine written from scratch
